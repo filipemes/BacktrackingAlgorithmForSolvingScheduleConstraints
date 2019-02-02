@@ -1,0 +1,237 @@
+
+********************Schedule 1***************************
+Number of Classes 1
+
+Software Engineering|AB|2|13:30-15:00|0
+
+********************Schedule 2***************************
+Number of Classes 2
+
+Software Engineering|AB|2|13:30-15:00|0
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 3***************************
+Number of Classes 2
+
+Software Engineering|AB|2|13:30-15:00|0
+Data Structures|AB|2|15:00-17:00|1
+
+********************Schedule 4***************************
+Number of Classes 3
+
+Software Engineering|AB|2|13:30-15:00|0
+Data Structures|AB|2|15:00-17:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 5***************************
+Number of Classes 3
+
+Software Engineering|AB|2|13:30-15:00|0
+Data Structures|AB|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+
+********************Schedule 6***************************
+Number of Classes 4
+
+Software Engineering|AB|2|13:30-15:00|0
+Data Structures|AB|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 7***************************
+Number of Classes 2
+
+Software Engineering|AB|2|13:30-15:00|0
+Maths|AD|2|15:00-17:00|1
+
+********************Schedule 8***************************
+Number of Classes 3
+
+Software Engineering|AB|2|13:30-15:00|0
+Maths|AD|2|15:00-17:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 9***************************
+Number of Classes 3
+
+Software Engineering|AB|2|13:30-15:00|0
+Maths|AD|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+
+********************Schedule 10***************************
+Number of Classes 4
+
+Software Engineering|AB|2|13:30-15:00|0
+Maths|AD|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 11***************************
+Number of Classes 4
+
+Software Engineering|AB|2|13:30-15:00|0
+Maths|AD|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+Data Structures|AD|3|17:00-19:00|1
+
+********************Schedule 12***************************
+Number of Classes 5
+
+Software Engineering|AB|2|13:30-15:00|0
+Maths|AD|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+Data Structures|AD|3|17:00-19:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 13***************************
+Number of Classes 3
+
+Software Engineering|AB|2|13:30-15:00|0
+Maths|AD|2|15:00-17:00|1
+Data Structures|AD|3|17:00-19:00|1
+
+********************Schedule 14***************************
+Number of Classes 4
+
+Software Engineering|AB|2|13:30-15:00|0
+Maths|AD|2|15:00-17:00|1
+Data Structures|AD|3|17:00-19:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 15***************************
+Number of Classes 2
+
+Software Engineering|AB|2|13:30-15:00|0
+Data Structures|AB|3|15:00-16:00|0
+
+********************Schedule 16***************************
+Number of Classes 3
+
+Software Engineering|AB|2|13:30-15:00|0
+Data Structures|AB|3|15:00-16:00|0
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 17***************************
+Number of Classes 3
+
+Software Engineering|AB|2|13:30-15:00|0
+Data Structures|AB|3|15:00-16:00|0
+Data Structures|AD|3|17:00-19:00|1
+
+********************Schedule 18***************************
+Number of Classes 4
+
+Software Engineering|AB|2|13:30-15:00|0
+Data Structures|AB|3|15:00-16:00|0
+Data Structures|AD|3|17:00-19:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 19***************************
+Number of Classes 2
+
+Software Engineering|AB|2|13:30-15:00|0
+Data Structures|AD|3|17:00-19:00|1
+
+********************Schedule 20***************************
+Number of Classes 3
+
+Software Engineering|AB|2|13:30-15:00|0
+Data Structures|AD|3|17:00-19:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 21***************************
+Number of Classes 1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 22***************************
+Number of Classes 1
+Data Structures|AB|2|15:00-17:00|1
+
+********************Schedule 23***************************
+Number of Classes 2
+Data Structures|AB|2|15:00-17:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 24***************************
+Number of Classes 2
+Data Structures|AB|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+
+********************Schedule 25***************************
+Number of Classes 3
+Data Structures|AB|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 26***************************
+Number of Classes 1
+Maths|AD|2|15:00-17:00|1
+
+********************Schedule 27***************************
+Number of Classes 2
+Maths|AD|2|15:00-17:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 28***************************
+Number of Classes 2
+Maths|AD|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+
+********************Schedule 29***************************
+Number of Classes 3
+Maths|AD|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 30***************************
+Number of Classes 3
+Maths|AD|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+Data Structures|AD|3|17:00-19:00|1
+
+********************Schedule 31***************************
+Number of Classes 4
+Maths|AD|2|15:00-17:00|1
+Data Structures|AB|3|15:00-16:00|0
+Data Structures|AD|3|17:00-19:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 32***************************
+Number of Classes 2
+Maths|AD|2|15:00-17:00|1
+Data Structures|AD|3|17:00-19:00|1
+
+********************Schedule 33***************************
+Number of Classes 3
+Maths|AD|2|15:00-17:00|1
+Data Structures|AD|3|17:00-19:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 34***************************
+Number of Classes 1
+Data Structures|AB|3|15:00-16:00|0
+
+********************Schedule 35***************************
+Number of Classes 2
+Data Structures|AB|3|15:00-16:00|0
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 36***************************
+Number of Classes 2
+Data Structures|AB|3|15:00-16:00|0
+Data Structures|AD|3|17:00-19:00|1
+
+********************Schedule 37***************************
+Number of Classes 3
+Data Structures|AB|3|15:00-16:00|0
+Data Structures|AD|3|17:00-19:00|1
+Software Engineering|AB|4|13:00-15:00|1
+
+********************Schedule 38***************************
+Number of Classes 1
+Data Structures|AD|3|17:00-19:00|1
+
+********************Schedule 39***************************
+Number of Classes 2
+Data Structures|AD|3|17:00-19:00|1
+Software Engineering|AB|4|13:00-15:00|1
