@@ -45,7 +45,7 @@ typedef struct Schedule
     struct Schedule *prevSchedule;
 } SCHEDULE;
 
-typedef struct AllSchedule
+typedef struct AllSchedules
 {
     SCHEDULE *firstSchedule;
     short numberOfSchedules;
